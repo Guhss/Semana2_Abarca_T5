@@ -1,0 +1,8 @@
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\bin\Debug\progra_semana2.exe.config
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\bin\Debug\progra_semana2.exe
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\bin\Debug\progra_semana2.pdb
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\obj\Debug\progra_semana2.csproj.AssemblyReference.cache
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\obj\Debug\progra_semana2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\obj\Debug\progra_semana2.csproj.CoreCompileInputs.cache
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\obj\Debug\progra_semana2.exe
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Semana2_Abarca_T5\progra_semana2\progra_semana2\obj\Debug\progra_semana2.pdb
